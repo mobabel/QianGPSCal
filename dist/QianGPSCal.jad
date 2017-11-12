@@ -1,0 +1,8 @@
+MIDlet-1: GPSCal,/icon.png,com.qian.midlet.GPSCal
+MIDlet-Jar-Size: 77009
+MIDlet-Jar-URL: QianGPSCal.jar
+MIDlet-Name: QianGPSCal
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
